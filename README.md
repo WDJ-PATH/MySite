@@ -1,4 +1,4 @@
-# MySite
+# My Site
 This is my personal website that is developed using the Django Framework of python, hosted on heroku.
 
 ## :star2: Tools & Packages Used
