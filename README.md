@@ -26,4 +26,13 @@ This is my personal website that is developed using the Django Framework of pyth
 
 ## :star2: User Interface
 
+![](https://github.com/WDJ-PATH/MySite/blob/master/MySite_UserScreens/dark_light_modes.gif)
 
+![](https://github.com/WDJ-PATH/MySite/blob/master/MySite_UserScreens/responsive.gif)
+
+![](https://github.com/WDJ-PATH/MySite/blob/master/MySite_UserScreens/dark_light.gif)
+
+***
+<p align="center">
+    Made with :heart:
+</p>
