@@ -44,9 +44,14 @@ h6{
     list-style-type: None;
 }
 
-.fa-github, .fa-instagram, .fa-linkedin{
+.fa-github, .fa-instagram, .fa-linkedin, .fa-google{
     color: white;
 }
+
+.fa-github:hover, .fa-instagram:hover, .fa-linkedin:hover, .fa-google:hover{
+    color: silver;
+}
+
 #tech-wrap, #proj-wrap1, #proj-wrap2, #proj-wrap3 {
     margin-right: 20px;
     color: #424242;
